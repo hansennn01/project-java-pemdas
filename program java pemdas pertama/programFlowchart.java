@@ -17,6 +17,8 @@ public class programFlowchart {
                 System.out.println(x+ " adalah bilangan ganjil");
             }
             x++;
+
         }
+        input.close();
     }
 }
